@@ -1,25 +1,23 @@
 {
-  "name": "@franzzemen/re",
-  "version": "4.0.0",
+  "name": "@franzzemen/rules-engine",
+  "version": "5.0.0",
   "description": "",
   "type": "module",
-  "exports": {
-    ".": "./re.js"
-  },
+  "main": "index.js",
   "types": "./re.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/franzzemen/re.git"
+    "url": "git+https://github.com/franzzemen/rules-engine.git"
   },
   "author": "FranzZemen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/franzzemen/re/issues"
+    "url": "https://github.com/franzzemen/rules-engine/issues"
   },
-  "homepage": "https://github.com/franzzemen/re#readme",
+  "homepage": "https://github.com/franzzemen/rules-engine#readme",
   "devDependencies": {
     "@franzzemen/gulp-base": "^12.1.1",
     "@franzzemen/npmu": "^2.0.18",
