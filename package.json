@@ -1,5 +1,5 @@
 {
-  "name": "@franzzemen/rules-engine",
+  "name": "@franzzemen/re-rules-engine",
   "version": "5.0.0",
   "description": "",
   "type": "module",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/franzzemen/rules-engine.git"
+    "url": "git+https://github.com/franzzemen/re-rules-engine.git"
   },
   "author": "FranzZemen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/franzzemen/rules-engine/issues"
+    "url": "https://github.com/franzzemen/re-rules-engine/issues"
   },
-  "homepage": "https://github.com/franzzemen/rules-engine#readme",
+  "homepage": "https://github.com/franzzemen/re-rules-engine#readme",
   "devDependencies": {
     "@franzzemen/gulp-base": "^12.1.1",
     "@franzzemen/npmu": "^2.0.18",
